@@ -1,7 +1,9 @@
 # Table of contents
 
 * [課程規劃](README.md)
-* [0.0 在開始之前 \(9/27\)](0.0-zai-kai-shi-zhi-qian-927.md)
+* [0.0 在開始之前 \(9/27\)](0.0-zai-kai-shi-zhi-qian-927/README.md)
+  * [Case Study: EGGNOGG+](0.0-zai-kai-shi-zhi-qian-927/case-study-eggnogg+.md)
+  * [EGGNOGG+ 玩法](0.0-zai-kai-shi-zhi-qian-927/eggnogg+-wan-fa.md)
 * [1.0 進入 Python 的世界 \(10/18\)](0.0-jin-ru-python-de-shi-jie-1011/README.md)
   * [1.1 Introduction to Python](0.0-jin-ru-python-de-shi-jie-1011/0.1-introduction-to-python.md)
   * [1.2 Python Environment](0.0-jin-ru-python-de-shi-jie-1011/0.2-python-huan-jing-an-zhuang.md)
