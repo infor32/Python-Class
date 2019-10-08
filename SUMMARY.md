@@ -12,9 +12,9 @@
   * [1.5 Comment](0.0-jin-ru-python-de-shi-jie-1011/0.4-zhu-jie.md)
   * [1.6 Variable](0.0-jin-ru-python-de-shi-jie-1011/1.1-bian-shu.md)
   * [1.7 Input](0.0-jin-ru-python-de-shi-jie-1011/1.7-input.md)
-  * [1.8 Datatype](0.0-jin-ru-python-de-shi-jie-1011/1.2-zi-liao-xing-tai.md)
 * [2.0 Python 語法一 \(10/25\)](untitled/README.md)
-  * [Untitled](untitled/untitled-1.md)
+  * [2.1 Datatype](untitled/1.2-zi-liao-xing-tai.md)
+  * [2.2 Operators](untitled/untitled-1.md)
   * [Untitled](untitled/untitled-1-1.md)
 * [3.0 Python 語法二 \(11/1\)](3.0-python-yu-fa-er-111.md)
 
