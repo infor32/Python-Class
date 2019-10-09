@@ -17,5 +17,7 @@
   * [2.2 Operators](untitled/untitled-1.md)
   * [2.3 If - Else](untitled/untitled-1-1.md)
   * [2.4 While Loops](untitled/2.4-while-loops.md)
-* [3.0 Python 語法二 \(11/1\)](3.0-python-yu-fa-er-111.md)
+  * [2.5 For Loops](untitled/2.5-for-loops.md)
+* [3.0 Python 語法二 \(11/1\)](3.0-python-yu-fa-er-111/README.md)
+  * [3.1 List](3.0-python-yu-fa-er-111/3.1-list.md)
 
